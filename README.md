@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Catatan Belanja
 
-Currently, two official plugins are available:
+Aplikasi pencatatan barang barang belanja.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Authors
+
+- Name : Muhammad Najib Robbani
+- Github : [@najibrobbani74](https://www.github.com/octokatherine)
+
+
+## Mockup
+
+![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201733.png?raw=true)
+
+
+## Features
+
+- Add Grocery List
+![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201818.png?raw=true)
+- View, Clear, and Sort Grocery List
+![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201851.png?raw=true)
+- Information about List
+![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201909.png?raw=truee)
+

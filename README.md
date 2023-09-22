@@ -20,9 +20,12 @@ Aplikasi pencatatan barang barang belanja.
 ## Features
 
 - Add Grocery List
+
 ![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201818.png?raw=true)
 - View, Clear, and Sort Grocery List
+
 ![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201851.png?raw=true)
 - Information about List
+
 ![App Screenshot](https://github.com/najibrobbani74/catatan-belanja/blob/main/docs/image/Screenshot%202023-09-22%20201909.png?raw=truee)
 

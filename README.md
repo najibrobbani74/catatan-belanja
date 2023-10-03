@@ -9,7 +9,7 @@ Aplikasi pencatatan barang barang belanja.
 ## Authors
 
 - Name : Muhammad Najib Robbani
-- Github : [@najibrobbani74](https://www.github.com/octokatherine)
+- Github : [@najibrobbani74](https://www.github.com/najibrobbani74)
 
 
 ## Mockup
